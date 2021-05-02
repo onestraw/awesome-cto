@@ -5,7 +5,7 @@
 > &mdash; (chorus) Hello, Dima
 
 
-A curated **and opinionated** list of resources for Chief Technology Officers and VP R&D, with the emphasis on startups and hyper-growth companies
+重点面向初创公司和超快成长公司CTO和研发VP精心挑选整理的一份资源列表。
 
 
 ## Contents
@@ -54,12 +54,12 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Lessons from Keith Rabois: How to Interview an Executive](https://delian.io/lessons-2)
  * [Lessons from Keith Rabois: How to Become a Magnet for Talent](https://delian.io/lessons-5)
  * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview)
- 
+
 ## Management
 
- * [The mythical 10x programmer](http://antirez.com/news/112) - Salvatore Sanfilippo *(author of Redis)*
- * [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - Charity Majors
- * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham *(Y Combinator)*
+ * [10x 高效码神](./management/10x_programmer.md) - Salvatore Sanfilippo *(author of Redis)*
+ * [工程师/管理者钟摆](./management/engineer_manager_pendulum.md) - Charity Majors
+ * [工程师时间表，管理者时间表](./management/makers_schedule.md) - Paul Graham *(Y Combinator)*
  * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
  * [Google re:Work](https://rework.withgoogle.com)
  * [44 Engineering Management Lessons](https://www.defmacro.org/2014/10/03/engman.html) (correct link to [non-violent communication](https://review.firstround.com/power-up-your-team-with-nonviolent-communication-principles) for lesson 34)
@@ -91,14 +91,14 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Hug your manager](https://buttondown.email/cote/archive/hug-your-manager/)
  * [Lessons from Keith Rabois: How to be an Effective Executive](https://delian.io/lessons-3)
  * [How Context Switching Sabotages Your Productivity](https://blog.doist.com/context-switching/)
- 
+
 ## Handbooks
 
- * [The Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
- * [Valve Employee Handbook](https://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
- * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
- * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
- * [How HashiCorp Works](https://works.hashicorp.com/)
+ * [Atlassian(bug追踪JIRA和团队协作Confluence) 团队手册](https://www.atlassian.com/team-playbook)
+ * [Valve (一家游戏公司)员工手册](https://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+ * [Basecamp (团队协作、项目管理)员工手册](https://github.com/basecamp/handbook)
+ * [GitLab 团队手册](https://about.gitlab.com/handbook/)
+ * [HashiCorp 是怎么运行的](https://works.hashicorp.com/)
 
 ## Development process
 
@@ -126,8 +126,8 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
 
 ## Architecture
 
- * [Twelve-Factor App](https://12factor.net)
- * [Reactive Manifesto](https://www.reactivemanifesto.org)
+ * [12要素应用](https://12factor.net/zh_cn)
+ * [反应式宣言](https://www.reactivemanifesto.org/zh-CN)
  * [An introduction to distributed systems](https://github.com/aphyr/distsys-class) - Kyle Kingsbury *(aphyr, author of Jepsen)*
  * [Microservices – Please, don’t](https://riak.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
  * [The Death of Microservice Madness in 2018](https://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
@@ -190,7 +190,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Y Combinator Startup Class](https://startupclass.samaltman.com)
  * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
  * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
- 
+
 
 ## Related stuff
 
@@ -206,7 +206,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
  * [Senior Engineer’s Checklist](https://medium.com/@littleblah/my-top-25-items-in-a-senior-engineers-checklist-c8e9f9f6e3c2)
  * [Technology Due Diligence Checklist](https://akfpartners.com/growth-blog/technical-due-diligence-checklists)
- 
+
 ## Product
  * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
  * [If You Don’t Think You Need a VP of Product...](https://www.saastr.com/if-you-dont-think-you-need-a-vp-of-product-marketing-etc-then-you-havent-worked-with-a-great-one/)
@@ -240,8 +240,8 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Curated list of CTO resources](https://github.com/92bondstreet/cto) *(GitHub)*
  * [Awesome CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources) *(GitHub)*
  * [Free Tools for Developers](https://free-for.dev)
- 
- 
+
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
