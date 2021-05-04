@@ -60,11 +60,12 @@
  * [10x 高效码神](./management/10x_programmer.md) - Salvatore Sanfilippo *(author of Redis)*
  * [工程师/管理者钟摆](./management/engineer_manager_pendulum.md) - Charity Majors
  * [工程师时间表，管理者时间表](./management/makers_schedule.md) - Paul Graham *(Y Combinator)*
- * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
+ * [Google软件工程学](./management/software_engineering_at_google.md) - Fergus Henderson
  * [Google re:Work](https://rework.withgoogle.com)
- * [44 Engineering Management Lessons](https://www.defmacro.org/2014/10/03/engman.html) (correct link to [non-violent communication](https://review.firstround.com/power-up-your-team-with-nonviolent-communication-principles) for lesson 34)
+ * [44 个工程管理课程](./management/44_engineering_management_lessons.md)
+ * [利用非暴力的沟通原则增强团队力量](./management/nonviolent_communication_principles.md)
  * [The Secret To Discussing Pay With Employees](https://www.officevibe.com/blog/secret-to-discussing-pay-with-employees)
- * [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) *(Github)*
+ * [领导和管理精选](https://github.com/onestraw/awesome-leading-and-managing) *(Github)*
  * [Progressing from tech to leadership](https://lcamtuf.blogspot.com/2018/02/on-leadership.html)
  * [A Review Process](https://capwatkins.com/blog/a-review-process) - Cap Watkins
  * [12 manager readmes from top tech companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
